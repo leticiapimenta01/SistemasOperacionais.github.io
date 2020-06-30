@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Sistemas Operacionais</title>
+</head>
+<body bgcolor="#F2F2F2">
+    <h2>ETEC Antônio Devisate</h2>
+    <img alt="sem imagem" width="200" height="150" src="logo.etec.jpg">
+    <h3><strong>Endereço:</strong>Av. Castro Alves, 62 - Somenzari, Marília - SP</h3>
+    <h3><strong>Telefone:</strong>(14) 3433-5467</h3>
+    <hr>
+    <h3>1° Desenvolvimento de Sistemas</h3>
+    <h3>Programação da Web I</h3>
+    <h3>Livia - 20279</h3>
+    <h3>Letícia Pimenta - 20072</h3>
+    <h3>Richard - 20084</h3>
+    <hr>
+    <h1>Sistemas Operacionais: </h1>
+    <ul>
+        <a href="linux.html"><li>Linux</li></a>
+        <a href="Windows.html"><li>Windows</li></a>
+        <a href="macos.html"><li>MacOS</li></a>
+        <a href="android.html"><li>Android</li></a>
+    </ul>
+</body>
+</html>
